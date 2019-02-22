@@ -1,4 +1,4 @@
-# Applied Functional Programming Course
+# (my solutions to) Applied Functional Programming Course
 
 [![Build Status](https://travis-ci.org/qfpl/applied-fp-course.svg?branch=master)](https://travis-ci.org/qfpl/applied-fp-course)
 
